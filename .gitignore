@@ -1,5 +1,6 @@
 # --- Config / kredensial (stream key, token) — JANGAN commit ---
 config/
+!config/settings.example.json
 
 # --- Python ---
 __pycache__/
